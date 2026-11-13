@@ -1,0 +1,4 @@
+# Python 3.10+ Standard Library only (heapq).
+# Optional packages below to run the .ipynb Jupyter notebooks locally:
+jupyter>=1.0.0
+notebook>=7.0.0
